@@ -1,4 +1,8 @@
-# devops
+![GitHub](https://img.shields.io/github/license/hidekibtw/devops)
+
+
+
+# DEVOPS
 aprendendo a utilizar o comando Git junto com o VSCode e GitHub
 
 Utilizando o sla oq do sla oq da coisa que relaciona sla oq
