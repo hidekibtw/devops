@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/hidekibtw/devops)
 
-
+![](https://github.com/hidekibtw/devops/blob/main/devops-git.png)
 
 # DEVOPS
 aprendendo a utilizar o comando Git junto com o VSCode e GitHub
